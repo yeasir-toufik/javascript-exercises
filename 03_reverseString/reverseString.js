@@ -6,13 +6,6 @@ const reverseString = function ( userInput ) {
         newString = newString+ userInput[i];
     }
     return newString;
-    
-    
-    
-    
-
-
-
 
 };
 
