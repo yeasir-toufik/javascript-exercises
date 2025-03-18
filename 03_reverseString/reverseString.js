@@ -9,8 +9,6 @@ const reverseString = function ( userInput ) {
     
     
     
-    // const ans = userInput.split('').reverse().join('');
-    // return ans;
     
 
 
